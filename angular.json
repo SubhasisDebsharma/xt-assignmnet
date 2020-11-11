@@ -127,6 +127,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "xt-assignment"
+    }
+  },
+  "defaultProject": "xt-assignment",
+  "cli": {
+    "analytics": false
+  }
 }

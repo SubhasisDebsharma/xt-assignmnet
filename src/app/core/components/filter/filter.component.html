@@ -3,8 +3,8 @@
         <h3 class="h3">Filters</h3>
         <p class="subtitle1 text-center">Launch Year</p>
         <div class="divider-middle"></div>
-        <div class="full-width flex flex-wrap space-between">
-            <div class="col-6" *ngFor="let el of availableFilterYears">
+        <div class="p-4 full-width flex flex-wrap space-between">
+            <div class="col-5 p-2" *ngFor="let el of availableFilterYears">
                 <a [routerLink]="" >
                     {{el.year}}
                 </a>

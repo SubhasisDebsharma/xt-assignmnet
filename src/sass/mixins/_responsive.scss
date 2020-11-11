@@ -1,0 +1,36 @@
+@mixin responsive($selector) {
+  #{"." + $selector} {
+    @content;
+  }
+
+  @media only screen and (min-width: 700px) {
+    #{".md\\:" + $selector} {
+      @content;
+    }
+  }
+
+  @media only screen and (min-width: 1024px) {
+    #{".lg\\:" + $selector} {
+      @content;
+    }
+  }
+
+  @media only screen and (min-width: 1440px) {
+    #{".xlg\\:" + $selector} {
+      @content;
+    }
+  }
+}
+
+@mixin responsiveCb() {
+  @content ("");
+  @media only screen and (min-width: 700px) {
+    @content ("md\\:");
+  }
+  @media only screen and (min-width: 1024px) {
+    @content ("lg\\:");
+  }
+  @media only screen and (min-width: 1440px) {
+    @content ("xlg\\:");
+  }
+}

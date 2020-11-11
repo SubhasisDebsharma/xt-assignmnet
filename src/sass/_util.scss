@@ -1,0 +1,44 @@
+.full-width {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.space-between {
+  justify-content: space-between;
+}
+
+.bg-white {
+  background: $backgroundWhite;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.p-1 {
+  padding: 0.25rem;
+}
+
+.p-2 {
+  padding: 0.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.pt-0 {
+  padding-top: 0;
+}
+
+.divider-middle {
+  height: 1px;
+  background: #cecece;
+  margin: 0 15%;
+}

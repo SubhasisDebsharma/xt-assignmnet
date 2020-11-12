@@ -1,18 +1,21 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FilterComponent } from './components/filter/filter.component';
-import { RouterModule } from '@angular/router';
+import { ToasterComponent } from './components/toaster/toaster.component';
+import { LoaderComponent } from './components/loader/loader.component';
 
 
 
 @NgModule({
-  declarations: [FilterComponent],
+  declarations: [
+    ToasterComponent,
+    LoaderComponent
+  ],
   exports: [
-    FilterComponent
+    ToasterComponent,
+    LoaderComponent
   ],
   imports: [
-    CommonModule,
-    RouterModule
+    CommonModule
   ]
 })
 export class CoreModule { }

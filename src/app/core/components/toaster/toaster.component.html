@@ -1,0 +1,18 @@
+<div class="fixed t-1 container z-1">
+  <div
+    class="m-2"
+    *ngFor="let message of messages; index as i"
+  >
+    <div class="col-xl-11 bg-red" *ngIf="message.style == 'error'">
+      <div
+        class=""
+        *ngIf="!message.dismissed"
+      >
+        {{ message?.content }}
+      </div>
+    </div>
+    <div class="col-xl-1 curser-pointer">
+      <p (click)="dismiss(i)">x</p>
+    </div>
+  </div>
+</div>

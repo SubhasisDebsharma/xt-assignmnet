@@ -5,7 +5,7 @@
         <div class="divider-middle"></div>
         <div class="full-width flex flex-wrap space-between">
             <div class="pb-2 col-5 p-4 flex justify-center" *ngFor="let el of availableFilterYears">
-                <a class="btn btn-green" [routerLink]="" >
+                <a class="btn btn-green" [routerLink]="['/launches']" [queryParams]="{launch_year: el.year}" routerLinkActive="active-link" queryParamsHandling="merge" >
                     {{el.year}}
                 </a>
             </div>

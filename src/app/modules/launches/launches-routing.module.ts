@@ -9,7 +9,8 @@ const routes: Routes = [
     component: LaunchesComponent,
     resolve: {
       launches: LaunchesResolverService
-    }
+    },
+    runGuardsAndResolvers: 'pathParamsOrQueryParamsChange'
   }
 ];
 

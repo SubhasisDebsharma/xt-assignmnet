@@ -1,0 +1,52 @@
+<div class="full-height card">
+    <div class="card-media">
+          <img [src]="details?.missionPatch" alt="loading">
+    </div>
+    
+    <div class="card-content">
+        <div class="card-title">
+            <span>
+                {{details?.missionName}} #{{details?.flightNumber}}
+            </span>
+        </div>
+        <div class="card-content-data">
+            <div class="card-content-data-label">
+                <span>Mission Ids:&nbsp;</span>
+            </div>
+        </div>
+        <div [class.p-2]="details?.missionId?.length" class="pl-12 pt-0">
+            <div class="card-content-data-value">
+                <ul>
+                    <li *ngFor="let el of details?.missionId">
+                        {{el}}
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="card-content-data">
+            <div class="card-content-data-label">
+                <span>Launch Year:&nbsp;</span>
+            </div>
+            <div class="card-content-data-value">
+                <span>{{details?.launchYear}}</span>
+            </div>
+        </div>
+        <div class="card-content-data">
+            <div class="card-content-data-label">
+                <span>Successful Launch:&nbsp;</span>
+            </div>
+            <div class="card-content-data-value">
+                <span>{{details?.launchSuccess}}</span>
+            </div>
+        </div>
+        <div class="card-content-data">
+            <div class="card-content-data-label">
+                <span>Successful Landing:&nbsp;</span>
+            </div>
+            <div class="card-content-data-value">
+                <span>{{details?.landSuccess}}</span>
+            </div>
+        </div>
+
+    </div>
+</div>

@@ -1,13 +1,6 @@
 <div class="container p-4 pt-0 align-center">
-  <div class="container full-width max-lg">
-    <div class="full-width p-2">
-      <h1 class="h1">
-        SpaceX Launch Programs
-      </h1>
-    </div>
-    <div class="col-12 md:col-3 lg:col-4">
-      <app-filter></app-filter>
-    </div>
-  </div>
+  <app-toaster></app-toaster>
+  <app-loader *ngIf="loaderService.loading"></app-loader>
+  <router-outlet></router-outlet>
 </div>
-<router-outlet></router-outlet>
+

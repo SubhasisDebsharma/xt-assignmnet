@@ -1,0 +1,14 @@
+<div class="card m-4 ml-2 mr-2">
+    <div class="container p-4">
+        <h3 class="h3">Filters</h3>
+        <p class="subtitle1 text-center">Launch Year</p>
+        <div class="divider-middle"></div>
+        <div class="full-width flex flex-wrap space-between">
+            <div class="pb-2 col-5 p-4 flex justify-center" *ngFor="let el of availableFilterYears">
+                <a class="btn btn-green" [routerLink]="" >
+                    {{el.year}}
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

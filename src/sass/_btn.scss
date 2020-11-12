@@ -1,0 +1,19 @@
+.btn {
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  cursor: pointer;
+  min-width: 7rem;
+  text-align: center;
+  &:active {
+    transform: scale(0.98);
+  }
+}
+
+.btn-green {
+  background: $btnColorGreen;
+  color: $btnTextColorGreen;
+}

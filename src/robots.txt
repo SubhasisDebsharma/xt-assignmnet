@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xt-spacex-launch.herokuapp.com/sitemap.xml

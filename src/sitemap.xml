@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2006&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2007&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2008&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2009&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2010&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2011&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2012&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2013&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2014&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2015&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2016&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2017&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2018&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2019&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;launch_success=true&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;launch_success=true&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;launch_success=false&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;launch_success=false&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;land_success=true&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;land_success=true&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;land_success=false&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_year=2020&amp;land_success=false&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2006&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2006&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2007&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2007&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2008&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2008&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2009&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2009&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2010&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2010&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2011&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2011&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2012&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2012&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2013&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2013&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2014&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2014&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2015&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2015&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2016&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2016&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2017&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2017&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2018&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2018&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2019&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2019&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2020&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;launch_year=2020&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=true&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=true&amp;land_success=false&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2006&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2006&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2007&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2007&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2008&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2008&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2009&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2009&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2010&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2010&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2011&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2011&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2012&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2012&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2013&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2013&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2014&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2014&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2015&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2015&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2016&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2016&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2017&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2017&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2018&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2018&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2019&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2019&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2020&amp;land_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;launch_year=2020&amp;land_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=true&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;launch_success=false&amp;land_success=false&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2006&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2006&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2007&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2007&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2008&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2008&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2009&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2009&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2010&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2010&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2011&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2011&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2012&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2012&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2013&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2013&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2014&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2014&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2015&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2015&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2016&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2016&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2017&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2017&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2018&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2018&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2019&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2019&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2020&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_year=2020&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=true&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=true&amp;launch_success=false&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2006&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2006&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2007&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2007&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2008&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2008&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2009&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2009&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2010&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2010&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2011&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2011&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2012&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2012&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2013&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2013&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2014&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2014&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2015&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2015&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2016&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2016&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2017&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2017&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2018&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2018&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2019&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2019&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2020&amp;launch_success=true</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_year=2020&amp;launch_success=false</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2013</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2014</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2015</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2016</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2017</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2018</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2019</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=true&amp;launch_year=2020</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false&amp;launch_year=2006</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false&amp;launch_year=2007</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false&amp;launch_year=2008</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false&amp;launch_year=2009</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false&amp;launch_year=2010</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false&amp;launch_year=2011</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xt-spacex-launch.herokuapp.com/launches?limit=100&amp;land_success=false&amp;launch_success=false&amp;launch_year=2012</loc>
+  <lastmod>2020-11-13T15:39:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

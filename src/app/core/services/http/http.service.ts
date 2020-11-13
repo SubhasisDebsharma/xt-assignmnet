@@ -7,10 +7,9 @@ import {
 } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { environment } from 'src/environments/environment';
-import { tap, catchError, finalize } from 'rxjs/operators';
+import { catchError, finalize } from 'rxjs/operators';
 import { LoaderService } from './../loader/loader.service';
 import { IApiEndpointModel } from '../../models/api-endpoint.model';
-import { ToasterService } from '../toaster/toaster.service';
 
 @Injectable({
   providedIn: 'root'
@@ -18,7 +17,6 @@ import { ToasterService } from '../toaster/toaster.service';
 export class HttpService {
   constructor(
     private http: HttpClient,
-    private toasterService: ToasterService,
     private loaderService: LoaderService
   ) {}
 
@@ -103,9 +101,6 @@ export class HttpService {
         }
       }),
       catchError((err: HttpErrorResponse) => {
-        if (customOptions.errorMessage) {
-          this.toasterService.showError(customOptions.errorMessage);
-        }
         throw err;
       })
     );
@@ -113,7 +108,5 @@ export class HttpService {
 }
 
 export interface CustomHttpServiceOption {
-  successMessage?: string;
-  errorMessage?: string;
   loader?: boolean;
 }

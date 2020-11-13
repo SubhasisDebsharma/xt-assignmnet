@@ -12,8 +12,8 @@
     "serve:ssr": "node dist/xt-assignment/server/main.js",
     "build:ssr": "ng build --prod && ng run xt-assignment:server:production",
     "prerender": "ng run xt-assignment:prerender",
-    "start:heroku":"node dist/xt-assignment/server/main.js",
-    "postinstall":"npm run build:ssr" 
+    "start:heroku": "node dist/xt-assignment/server/main.js",
+    "postinstall": "npm run build:ssr"
   },
   "private": true,
   "dependencies": {
@@ -28,6 +28,7 @@
     "@angular/router": "~11.0.0",
     "@angular/service-worker": "~11.0.0",
     "@nguniversal/express-engine": "^10.1.0",
+    "compression": "^1.7.4",
     "express": "^4.15.2",
     "rxjs": "~6.6.3",
     "tslib": "^2.0.0",

@@ -33,15 +33,14 @@
 .space-between {
   justify-content: space-between;
 }
+.space-around {
+  justify-content: space-around;
+}
 .justify-center {
   justify-content: center;
 }
 .align-self-start {
   align-self: self-start;
-}
-
-.sss {
-  height: 100%;
 }
 
 .bg-white {
@@ -113,8 +112,16 @@
   margin-left: 0.5rem;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 .divider-middle {
-  height: 1px;
+  height: 0.1rem;
   background: #cecece;
   margin: 0 15%;
 }

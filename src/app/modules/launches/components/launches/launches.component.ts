@@ -13,11 +13,8 @@ export class LaunchesComponent implements OnInit {
 
   ngOnInit(): void {
     this.route.data.subscribe(data => {
-      console.log(data.launches);
       this.events = data.launches;
     });
-    // console.log(this.route.snapshot.data);
-    // this.events = this.route.snapshot.data.launches ;
   }
 
 }

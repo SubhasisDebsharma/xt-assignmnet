@@ -6,7 +6,7 @@
             <div class="divider-middle"></div>
             <div class="full-width flex flex-wrap space-between">
                 <a #link="routerLinkActive" *ngFor="let el of availableFilterYears"
-                class="sss m-4 mb-2 btn btn-green"
+                class="m-4 mb-2 btn btn-green"
                 (click)="link.isActive ? removeQuery(['/launches'], {launch_year: el.year}) : false"
                 [routerLink]="['/launches']" [queryParams]="{launch_year: el.year}"
                 routerLinkActive="active-link"

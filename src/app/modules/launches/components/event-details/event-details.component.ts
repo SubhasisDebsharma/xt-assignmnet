@@ -1,5 +1,4 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { DomSanitizer } from '@angular/platform-browser';
 import { EventDetailsModel, IEventDetailsModel } from '../../models/event-detail.model';
 @Component({
   selector: 'app-event-details',

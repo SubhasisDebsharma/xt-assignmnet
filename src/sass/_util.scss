@@ -28,6 +28,11 @@
 .flex-wrap {
   flex-wrap: wrap;
 }
+
+.flex-basis-40 {
+  flex-basis: 40%;
+}
+
 .space-between {
   justify-content: space-between;
 }
@@ -74,24 +79,12 @@
   padding-left: 3rem;
 }
 
-.m-4 {
-  margin: 1rem;
+.p-3 {
+  padding: 0.75rem;
 }
 
-.ml-2 {
-  margin-left: 0.5rem;
-}
-
-.mr-2 {
-  margin-left: 0.5rem;
-}
-
-.mb-2 {
-  margin-bottom: 0.5rem;
-}
-
-.mb-4 {
-  margin-bottom: 1rem;
+.mb-6 {
+  margin-bottom: 1.5rem;
 }
 
 .br-2 {

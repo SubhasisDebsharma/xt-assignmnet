@@ -1,12 +1,12 @@
-<div class="bg-white br-2 m-4 ml-2 mr-2">
+<div class="bg-white br-2">
     <div class="container p-4">
         <p class="h3">Filters</p>
-        <div class="mb-4">
+        <ng-container>
             <p class="subtitle1 text-center">Launch Year</p>
             <div class="divider-middle"></div>
-            <div class="full-width flex flex-wrap space-between">
+            <div class="p-4 full-width flex flex-wrap space-between">
                 <a #link="routerLinkActive" *ngFor="let el of availableFilterYears"
-                class="m-4 mb-2 btn btn-green"
+                class="mb-6 flex-basis-40 btn btn-green"
                 (click)="link.isActive ? removeQuery(['/launches'], {launch_year: el.year}) : false"
                 [routerLink]="['/launches']" [queryParams]="{launch_year: el.year}"
                 routerLinkActive="active-link"
@@ -14,13 +14,13 @@
                     {{el.year}}
                 </a>
             </div>
-        </div>
-        <div class="mb-4">
+        </ng-container>
+        <ng-container>
             <p class="subtitle1 text-center">Successful Launch</p>
             <div class="divider-middle"></div>
-            <div class="full-width flex flex-wrap space-between">
+            <div class="p-4 full-width flex flex-wrap space-between">
                 <a #link="routerLinkActive" *ngFor="let el of availableFilterLandLaunch"
-                class="m-4 mb-2 btn btn-green"
+                class="mb-6 flex-basis-40 btn btn-green"
                 (click)="link.isActive ? removeQuery(['/launches'], {launch_success: el.value}) : false"
                 [routerLink]="['/launches']" [queryParams]="{launch_success: el.value}"
                 routerLinkActive="active-link" queryParamsHandling="merge"
@@ -28,19 +28,19 @@
                     {{el.name}}
                 </a>
             </div>
-        </div>
-        <div class="mb-4">
+        </ng-container>
+        <ng-container>
             <p class="subtitle1 text-center">Successful Landing</p>
             <div class="divider-middle"></div>
-            <div class="full-width flex flex-wrap space-between">
+            <div class="p-4 full-width flex flex-wrap space-between">
                 <a #link="routerLinkActive" *ngFor="let el of availableFilterLandLaunch"
-                class="m-4 mb-2 btn btn-green"
+                class="mb-6 flex-basis-40 btn btn-green"
                 (click)="link.isActive ? removeQuery(['/launches'], {land_success: el.value}) : false"
                 [routerLink]="['/launches']" [queryParams]="{land_success: el.value}"
                 routerLinkActive="active-link" queryParamsHandling="merge" >
                     {{el.name}}
                 </a>
             </div>
-        </div>
+        </ng-container>
     </div>
 </div>

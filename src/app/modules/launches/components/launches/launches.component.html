@@ -1,11 +1,11 @@
 <div class="container full-width max-lg">
-    <div class="full-width p-2 pt-0 h1">
+    <header class="full-width p-3 pt-0 h1">
       SpaceX Launch Programs
-    </div>
+    </header>
     <div class="flex flex-row flex-wrap full-width" >
-        <app-filter class="col-12 md:col-4 lg:col-2"></app-filter>
+        <app-filter class="col-12 md:col-4 lg:col-2 p-3"></app-filter>
       <div class="col-12 md:col-8 lg:col-10 flex flex-wrap align-self-start">
-          <app-event-details class="col-12 md:col-6 lg:col-3 p-4 pr-2 pl-2"
+          <app-event-details class="col-12 md:col-6 lg:col-3 p-3"
           *ngFor="let el of events" [rowDetails]="el" ></app-event-details>
       </div>
     </div>

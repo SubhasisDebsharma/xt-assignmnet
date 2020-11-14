@@ -170,7 +170,9 @@
             "browserTarget": "xt-assignment:build:production",
             "serverTarget": "xt-assignment:server:production",
             "routes": [
-              "/"
+              "/",
+              "/launches?limit=100",
+              "/launches"
             ]
           },
           "configurations": {

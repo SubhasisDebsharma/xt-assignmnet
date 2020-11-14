@@ -4,41 +4,156 @@
   width: 100%;
 }
 
-@include responsiveCb() using($breakPoint) {
-  // #{"." + $breakPoint + "col-1"} {
-  //   width: 8.33%;
+// .col-2 {
+//   width: 16.66%;
+// }
+// .col-3 {
+//   width: 25%;
+// }
+// .col-4 {
+//   width: 33.33%;
+// }
+// .col-6 {
+//   width: 50%;
+// }
+// .col-8 {
+//   width: 66.66%;
+// }
+// .col-10 {
+//   width: 83.33%;
+// }
+.col-12 {
+  width: 100%;
+}
+
+/* md */
+@media only screen and (min-width: 700px) {
+  // .md\:col-2 {
+  //   width: 16.66%;
   // }
-  #{"." + $breakPoint + "col-2"} {
-    width: 16.66%;
-  }
-  #{"." + $breakPoint + "col-3"} {
-    width: 25%;
-  }
-  #{"." + $breakPoint + "col-4"} {
+
+  // .md\:col-3 {
+  //   width: 25%;
+  // }
+
+  .md\:col-4 {
     width: 33.33%;
   }
-  // #{"." + $breakPoint + "col-5"} {
-  //   width: 41.66%;
-  // }
-  #{"." + $breakPoint + "col-6"} {
+
+  .md\:col-6 {
     width: 50%;
   }
-  // #{"." + $breakPoint + "col-7"} {
-  //   width: 58.33%;
-  // }
-  #{"." + $breakPoint + "col-8"} {
+
+  .md\:col-8 {
     width: 66.66%;
   }
-  // #{"." + $breakPoint + "col-9"} {
-  //   width: 75%;
+
+  // .md\:col-10 {
+  //   width: 83.33%;
   // }
-  #{"." + $breakPoint + "col-10"} {
+
+  // .md\:col-12 {
+  //   width: 100%;
+  // }
+}
+
+/* lg */
+@media only screen and (min-width: 1024px) {
+  .lg\:col-2 {
+    width: 16.66%;
+  }
+
+  .lg\:col-3 {
+    width: 25%;
+  }
+
+  // .lg\:col-4 {
+  //   width: 33.33%;
+  // }
+
+  // .lg\:col-6 {
+  //   width: 50%;
+  // }
+
+  // .lg\:col-8 {
+  //   width: 66.66%;
+  // }
+
+  .lg\:col-10 {
     width: 83.33%;
   }
-  // #{"." + $breakPoint + "col-11"} {
-  //   width: 91.66%;
+
+  // .lg\:col-12 {
+  //   width: 100%;
   // }
-  #{"." + $breakPoint + "col-12"} {
-    width: 100%;
-  }
 }
+
+/* xlg */
+// @media only screen and (min-width: 1440px) {
+// .xlg\:col-2 {
+//   width: 16.66%;
+// }
+
+// .xlg\:col-3 {
+//   width: 25%;
+// }
+
+// .xlg\:col-4 {
+//   width: 33.33%;
+// }
+
+// .xlg\:col-6 {
+//   width: 50%;
+// }
+
+// .xlg\:col-8 {
+//   width: 66.66%;
+// }
+
+// .xlg\:col-10 {
+//   width: 83.33%;
+// }
+
+// .xlg\:col-12 {
+//   width: 100%;
+// }
+// }
+
+// @include responsiveCb() using($breakPoint) {
+//   // #{"." + $breakPoint + "col-1"} {
+//   //   width: 8.33%;
+//   // }
+//   #{"." + $breakPoint + "col-2"} {
+//     width: 16.66%;
+//   }
+//   #{"." + $breakPoint + "col-3"} {
+//     width: 25%;
+//   }
+//   #{"." + $breakPoint + "col-4"} {
+//     width: 33.33%;
+//   }
+//   // #{"." + $breakPoint + "col-5"} {
+//   //   width: 41.66%;
+//   // }
+//   #{"." + $breakPoint + "col-6"} {
+//     width: 50%;
+//   }
+//   // #{"." + $breakPoint + "col-7"} {
+//   //   width: 58.33%;
+//   // }
+//   #{"." + $breakPoint + "col-8"} {
+//     width: 66.66%;
+//   }
+//   // #{"." + $breakPoint + "col-9"} {
+//   //   width: 75%;
+//   // }
+//   #{"." + $breakPoint + "col-10"} {
+//     width: 83.33%;
+//   }
+//   // #{"." + $breakPoint + "col-11"} {
+//   //   width: 91.66%;
+//   // }
+//   #{"." + $breakPoint + "col-12"} {
+//     width: 100%;
+//   }
+// }

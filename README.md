@@ -26,7 +26,8 @@ Deployed URL : [https://xt-spacex-launch.herokuapp.com/](https://xt-spacex-launc
 
 ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441970/xt-media/report/lighthouse.png)
 
-#### Unit test report with 100% code coverage
+
+## Unit test report with 100% code coverage
 
 ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441971/xt-media/report/code-coverage.png)
 

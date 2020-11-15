@@ -1,8 +1,9 @@
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { TestBed, waitForAsync } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
 
-describe('AppComponent', () => {
+fdescribe('AppComponent', () => {
   beforeEach(waitForAsync(() => {
     TestBed.configureTestingModule({
       imports: [
@@ -11,6 +12,7 @@ describe('AppComponent', () => {
       declarations: [
         AppComponent
       ],
+      schemas: [CUSTOM_ELEMENTS_SCHEMA]
     }).compileComponents();
   }));
 
@@ -26,10 +28,11 @@ describe('AppComponent', () => {
     expect(app.title).toEqual('xt-assignment');
   });
 
-  it('should render title in a h1 tag', () => {
+  it('should render developer name', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to xt-assignment!');
+    console.log(">>>>", compiled.querySelector('.body'));
+    expect(compiled.querySelector('.body').textContent).toContain('Subhasis Debsharma');
   });
 });

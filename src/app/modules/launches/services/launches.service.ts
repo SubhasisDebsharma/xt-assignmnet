@@ -15,7 +15,7 @@ export class LaunchesService {
     private httpService: HttpService
   ) { }
 
-  public fetchLaunches(params: Params, customOptions?: CustomHttpServiceOption): Observable<IEventDetailsModel> {
+  public fetchLaunches(params: Params, customOptions?: CustomHttpServiceOption): Observable<IEventDetailsModel[]> {
     const url = this.httpService.constructUrl(API_ENDPOINTS.Launches);
     return this.httpService.get(url, {
       params

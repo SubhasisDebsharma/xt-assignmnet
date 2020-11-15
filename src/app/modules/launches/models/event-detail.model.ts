@@ -1,5 +1,3 @@
-import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
-
 export interface IEventDetailsModel {
     mission_name: string;
     flight_number: number;

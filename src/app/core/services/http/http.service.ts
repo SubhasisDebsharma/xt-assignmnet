@@ -99,9 +99,6 @@ export class HttpService {
         if (customOptions.loader) {
           this.loaderService.stopLoader();
         }
-      }),
-      catchError((err: HttpErrorResponse) => {
-        throw err;
       })
     );
   }

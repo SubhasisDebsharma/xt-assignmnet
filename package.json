@@ -12,7 +12,7 @@
     "serve:ssr": "node dist/xt-assignment/server/main.js",
     "build:ssr": "ng build --prod && ng run xt-assignment:server:production",
     "prerender": "ng run xt-assignment:prerender",
-    "start:heroku": "node dist/xt-assignment/server/main.js",
+    "start:heroku": "node dist/xt-assignment/server/main.js"
   },
   "private": true,
   "dependencies": {

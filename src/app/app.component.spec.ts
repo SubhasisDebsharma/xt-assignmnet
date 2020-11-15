@@ -3,7 +3,7 @@ import { TestBed, waitForAsync } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
 
-fdescribe('AppComponent', () => {
+describe('AppComponent', () => {
   beforeEach(waitForAsync(() => {
     TestBed.configureTestingModule({
       imports: [
@@ -32,7 +32,6 @@ fdescribe('AppComponent', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    console.log(">>>>", compiled.querySelector('.body'));
-    expect(compiled.querySelector('.body').textContent).toContain('Subhasis Debsharma');
+    expect(compiled.querySelector('.body1').textContent).toContain('Subhasis Debsharma');
   });
 });

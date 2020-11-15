@@ -1,27 +1,118 @@
-# XtAssignment
+# SpaceX Launch Programs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+An application which would help users list and browse the launches by SpaceX program.
 
-## Development server
+Deployed URL : [https://xt-spacex-launch.herokuapp.com/](https://xt-spacex-launch.herokuapp.com/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+|                                               Mobile                                               |                                             Tablet                                              |                                               Desktop                                               |
+| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441971/xt-media/report/mobile-view.png) | ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441980/xt-media/report/tab-view.png) | ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441972/xt-media/report/desktop-view.png) |
 
-## Code scaffolding
+## Application features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Browse all launches by SpaceX Program.
+- Filter by the launche year.
+- Filter by launche success/failure.
+- Filter by landing success/failure.
+- A fully functional PWA application
+- Fast and reliable with [pagespeed insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fxt-spacex-launch.herokuapp.com%2F) score of 90-100%
+- [WCAG 2.0 (level AA) verified](https://achecker.ca/checker/index.php)
 
-## Build
+|                                                 Pagespeed                                                  |                                              Web Accessibility                                              |
+| :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441952/xt-media/report/page-speed-insights.png) | ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441971/xt-media/report/accessibility-review.png) |
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+#### Lighthouse Report in Chrome
 
-## Running unit tests
+![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441970/xt-media/report/lighthouse.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### Unit test report with 100% code coverage
 
-## Running end-to-end tests
+![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441971/xt-media/report/code-coverage.png)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Tech stack
 
-## Further help
+- Angular 11
+- NodeJS
+- Angular Universal
+- Angular PWA
+- SCSS
+- Jasmin + Karma
+- GitHub
+- Heroku
+- VS Code
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Code quality checks
+
+- Jasmin + Karma
+- SonarLint
+- TsLint
+- Prettier
+
+## Approach
+
+Initial application load happens with Angular Universal(SSR).
+
+Once the application loads on the brower then onwards all the tasks are performed on the client side.
+
+With Angular PWA add-on the application is PWA enabled.
+
+## Performance Optimizations
+
+**Angular Build Optimizer** - Enabled build optimizer for reduced bundle size.
+
+**No CSS Framework** - No external CSS framework has been used. Which helped to reduce bundle size and less code shifting.
+
+**Image** - Using Cloudinary CDN for optimized WEBP images. Using[ cloudinary remote upload api](https://cloudinary.com/documentation/fetch_remote_images#auto_upload_remote_resources) to automatically upload images fetched from API response to cloudinary CDN.
+
+**Lazyload** - Lazyloading images using newly introduced [browser native lazy-loading](https://web.dev/native-lazy-loading/)
+
+**CLS** - Following guidelines on cumulative layout shift to achieve a better performance.
+
+**Lessen DOM Elements and CSS**: Reduced the DOM elements and CSS to improve on performace.
+
+## Instructions
+
+**Installation**
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ npm install
+```
+
+**Development**
+
+```sh
+$ npm run start
+```
+
+**Run Unit Test**
+
+```sh
+$ npm run test
+```
+
+**Generate Code Coveraage Report**
+
+```sh
+$ npm run codecoverage
+```
+
+**Production**
+
+Production build
+
+```sh
+$ npm run build
+```
+
+Start production server
+
+```sh
+$ npm run serve:ssr
+```
+
+---
+
+> Author: Subhasis Debsharma

@@ -3,9 +3,10 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port 4300",
+    "start": "ng serve",
     "build": "npm run build:ssr",
     "test": "ng test",
+    "codecoverage": "ng test --code-coverage",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "dev:ssr": "ng run xt-assignment:serve-ssr",

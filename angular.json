@@ -31,7 +31,7 @@
               "src/sitemap.xml"
             ],
             "styles": [
-              "src/styles.scss"
+              { "input": "src/styles.scss", "inject": false, "bundleName": "styles"}
             ],
             "scripts": []
           },
@@ -99,7 +99,7 @@
               "src/sitemap.xml"
             ],
             "styles": [
-              "src/styles.scss"
+              { "input": "src/styles.scss", "inject": false, "bundleName": "styles"}
             ],
             "scripts": []
           }

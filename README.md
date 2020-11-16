@@ -20,7 +20,7 @@ Deployed URL : [https://xt-spacex-launch.herokuapp.com/](https://xt-spacex-launc
 
 |   Pagespeed Desktop  | Pagespeed Mobile  |  Web Accessibility |
 | :----: | :----: |  :----: |
-| ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441952/xt-media/report/page-speed-desktop.png) | ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605530179/xt-media/report/page-speed-mobile.png) | ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441971/xt-media/report/accessibility-review.png) |
+| ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441952/xt-media/report/page-speed-desktop.png) | ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605531283/xt-media/report/page-speed-mobile.png) | ![](https://res.cloudinary.com/dw9ojz2hi/image/upload/v1605441971/xt-media/report/accessibility-review.png) |
 
 #### Lighthouse Report in Chrome
 

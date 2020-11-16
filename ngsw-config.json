@@ -26,5 +26,21 @@
         ]
       }
     }
+  ],
+  "dataGroups": [
+    {
+      "name": "launches",
+      "urls": [
+        "https://api.spacexdata.com/**"
+      ],
+      "cacheConfig": {
+        "maxSize": 10,
+        "maxAge": "365d",
+        "strategy": "performance"
+      },
+      "cacheQueryOptions": {
+        "ignoreSearch": false
+      }
+    }
   ]
 }

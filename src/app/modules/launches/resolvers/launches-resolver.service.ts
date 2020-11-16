@@ -12,6 +12,6 @@ export class LaunchesResolverService implements Resolve<any> {
   constructor(private launchesService: LaunchesService) { }
 
   resolve(route: ActivatedRouteSnapshot): Observable<IEventDetailsModel[]> {
-    return this.launchesService.fetchLaunches(route.queryParams, {loader: true});
+    return this.launchesService.fetchLaunches({limit: 100, ...route.queryParams}, {loader: true});
   }
 }

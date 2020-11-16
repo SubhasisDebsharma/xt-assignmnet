@@ -5,6 +5,11 @@ import { LaunchesModule } from './modules/launches/launches.module';
 
 const routes: Routes = [
   {
+    path: '',
+    loadChildren: () => LaunchesModule,
+    pathMatch: 'full'
+  },
+  {
     path: 'launches',
     loadChildren: () => LaunchesModule
   },

@@ -1,6 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
-
 import { LaunchesComponent } from './launches.component';
 
 describe('LaunchesComponent', () => {
@@ -24,4 +23,5 @@ describe('LaunchesComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
 });

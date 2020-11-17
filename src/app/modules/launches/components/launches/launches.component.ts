@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { Component, OnInit, OnDestroy } from '@angular/core';
+import { ActivatedRoute, Params } from '@angular/router';
+import { Subscription } from 'rxjs';
 import { IEventDetailsModel } from '../../models/event-detail.model';
 
 @Component({
@@ -7,14 +8,19 @@ import { IEventDetailsModel } from '../../models/event-detail.model';
   templateUrl: './launches.component.html',
   styleUrls: ['./launches.component.scss']
 })
-export class LaunchesComponent implements OnInit {
+export class LaunchesComponent implements OnInit, OnDestroy {
   events: IEventDetailsModel[];
+  private routeDataSubscription: Subscription;
   constructor(private route: ActivatedRoute) { }
 
   ngOnInit(): void {
-    this.route.data.subscribe(data => {
+    this.routeDataSubscription = this.route.data.subscribe(data => {
       this.events = data.launches;
     });
+  }
+
+  ngOnDestroy() {
+    this.routeDataSubscription.unsubscribe();
   }
 
 }

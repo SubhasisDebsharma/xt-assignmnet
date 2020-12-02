@@ -6,7 +6,6 @@ import { FilterComponent } from './components/filter/filter.component';
 import { LaunchesComponent } from './components/launches/launches.component';
 import { RouterModule } from '@angular/router';
 import { EventDetailsComponent } from './components/event-details/event-details.component';
-import { CoreModule } from 'src/app/core/core.module';
 
 
 @NgModule({
@@ -14,8 +13,7 @@ import { CoreModule } from 'src/app/core/core.module';
   imports: [
     CommonModule,
     LaunchesRoutingModule,
-    RouterModule,
-    CoreModule
+    RouterModule
   ]
 })
 export class LaunchesModule { }
